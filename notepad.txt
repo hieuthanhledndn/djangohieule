@@ -1,0 +1,20 @@
+ckeditor:  edit text
+mptt:  category Trê Subcategory
+
+
+
+
+
+
+ghi chu
+
+django.contrib.humanize : format tien te
+
+
+
+
+
+
+
++++++  LOI +++++
+loi post ko len review product
